@@ -21,7 +21,7 @@ I am an enthusiastic aerospace engineering student with hands-on experience in n
 ## Additional Paper
 
 This is not quite code, but still relevant to engineering!
-[Vibrational Analysis of Aircraft Wings](https://www.overleaf.com/read/dphyxcscryww#716244)
+[Vibrational Analysis of Aircraft Wings](file:///C:/Users/eduar/Downloads/APPM_3310_Project.pdf)
 
 ## Contact
 
