@@ -18,6 +18,11 @@ I am an enthusiastic aerospace engineering student with hands-on experience in n
 
 ---
 
+## Additional Paper
+
+This is not quite code, but still relevant to engineering!
+[Vibrational Analysis of Aircraft Wings](https://www.overleaf.com/read/dphyxcscryww#716244)
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/eduardo-magana-orantes-47667130b/)
