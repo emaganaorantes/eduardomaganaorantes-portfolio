@@ -4,7 +4,7 @@ Welcome to my engineering and computational science portfolio! Here I showcase s
 
 ## About Me
 
-I am an enthusiastic aerospace engineering student with hands-on experience in numerical modeling, simulation, and scientific programming. These are a few of my most outstanding projects that I have done during my college time. My projects span MATLAB and Python, covering topics from physical system simulation to neural network-based PDE solvers.
+I am an enthusiastic mechanical engineering student with hands-on experience in numerical modeling, simulation, and scientific programming. These are a few of my most outstanding projects that I have done during my college time. My projects span MATLAB and Python, covering topics from physical system simulation to neural network-based PDE solvers.
 
 ---
 
@@ -12,9 +12,9 @@ I am an enthusiastic aerospace engineering student with hands-on experience in n
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| [Water Bottle Rocket Trajectory Simulation](./water-bottle-rocket/) | Models and simulates the flight of a water bottle rocket, comparing with real experimental data. | MATLAB |
-| [Satellite Orbit Tracking](./satellite-orbit-tracking/) | Reads, processes, and analyzes satellite orbit data, including range and range-rate computations for GRACE-FO satellites. | MATLAB |
-| [Neural PDE Solver for a 2D Problem](./neural-pde-solver/) | Deep learning approach to solving a 2D boundary value problem using PyTorch. | Python, PyTorch |
+| [Water Bottle Rocket Trajectory Simulation](./water-bottle-rocket/) | Models and simulates the flight dynamics of a water bottle rocket using physics-based equations of motion. Incorporates thrust generation, mass variation, aerodynamic drag, and internal pressure changes during propulsion. Uses numerical integration (MATLAB ODE solvers) to predict trajectory and compares results with experimental launch data to evaluate model accuracy and identify sources of error. | MATLAB |
+| [Satellite Orbit Tracking](./satellite-orbit-tracking/) | Processes and analyzes real satellite telemetry data (GRACE-FO) to compute orbital parameters such as range and range-rate. Implements coordinate transformations, time synchronization, and numerical methods to model satellite motion. Focuses on data processing, signal interpretation, and comparison between predicted and observed orbital behavior. | MATLAB |
+| [Neural PDE Solver for a 2D Problem](./neural-pde-solver/) | Develops a physics-informed neural network (PINN) to solve a 2D boundary value problem governed by partial differential equations. Embeds physical laws directly into the loss function, removing the need for labeled data. Investigates convergence, training stability, and solution accuracy against analytical or numerical benchmarks. | Python, PyTorch |
 
 ---
 
